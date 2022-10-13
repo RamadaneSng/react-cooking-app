@@ -1,0 +1,16 @@
+.app h1 {
+  color: #ed9472;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.app input {
+  width: 300px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.app ul {
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=app.css.map */
